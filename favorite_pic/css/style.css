@@ -6,7 +6,9 @@
     opacity: 0.95;
     display:none;
     width:650px;
-    height: 433px;
+    height: 435px;
+    overflow:scroll;
+    max-height:435px;
     background-image: url(http://n.sinaimg.cn/sinacn08/450/w800h450/20180718/2793-hfnsvyz7816000.jpg);
 }
 
@@ -24,6 +26,7 @@ div.l_in{
     top: 10px;
     background-color:#cac1db;
     opacity: 0.8;
+    max-height:100px;
     display:none;
 }
 .l_list a{
