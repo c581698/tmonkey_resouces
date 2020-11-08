@@ -7,7 +7,7 @@
     display:none;
     width:650px;
     height: 433px;
-    background-image: url(http://pic.sc.chinaz.com/files/pic/pic9/202009/bpic21284.jpg);
+    background-image: url(http://n.sinaimg.cn/sinacn08/450/w800h450/20180718/2793-hfnsvyz7816000.jpg);
 }
 
 div.l_in{
@@ -80,7 +80,7 @@ div.l_in{
     padding:0px 70px 0 20px;
     opacity: 0;
     position: absolute;
-    top:0px;
+    top:-5px;
     left:10px;
     background: transparent;
     -webkit-box-sizing: border-box;
